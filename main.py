@@ -1,3 +1,3 @@
 i = input()
-i = i + 5
+i = i + 150
 print(i)
